@@ -1,0 +1,26 @@
+{
+    "letters": "በባአአይጦችአይ",
+    "words": [
+        {
+            "spelling": "አበባ",
+            "direction": "V",
+            "startPos": 0,
+            "startCross": 0,
+            "hint": "ቆንጆ ነገር"
+        },
+        {
+            "spelling": "አይጦች",
+            "direction": "H",
+            "startPos": 0,
+            "startCross": 2,
+            "hint": "ጨርቅ የሚበላ ነገር"
+        },
+        {
+            "spelling": "አይ",
+            "direction": "V",
+            "startPos": 1,
+            "startCross": 4,
+            "hint": "የማይስማማ መልኩ"
+        }
+    ]
+}
